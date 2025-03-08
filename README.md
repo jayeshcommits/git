@@ -1,1 +1,2 @@
-Learn git and enjoy
+Learn git and have fun
+
